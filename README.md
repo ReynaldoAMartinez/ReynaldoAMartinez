@@ -1,6 +1,7 @@
 # Reynaldo Martinez
 <a href="https://linkedin.com/in/reynaldo-martinez-221972186/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@itramp12)
+
 
 [Brief Introduction - Remove this afterwards]
 
