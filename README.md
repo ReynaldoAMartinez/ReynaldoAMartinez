@@ -17,7 +17,7 @@ Here are selected projects that showcase my skills and hands-on experience
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Security Operations                           | [Security Operations](https://www.credly.com/badges/9c869131-0e26-4f52-b167-3e52e427a464)|
+| Security Operations                           | [CyberOps Associate](https://www.credly.com/badges/9c869131-0e26-4f52-b167-3e52e427a464)|
 | Ethical Hacking                               | [Ethical Hacking](https://www.credly.com/badges/afa277e5-ac94-42f4-93ba-ddfc9b76d029/linked_in_profile)|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
