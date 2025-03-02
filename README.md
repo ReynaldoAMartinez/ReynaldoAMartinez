@@ -1,5 +1,5 @@
 # Reynaldo Martinez
-<a href="https://linkedin.com/in/reynaldo-martinez-221972186/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/cyberey/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@itramp12)
 
 
@@ -72,7 +72,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
   <img src="https://img.shields.io/badge/-Linux-000080?&style=for-the-badge&logoColor=white" />
 </a>
 <a href=https://www.credly.com/badges/649b434b-d6db-4a18-adec-81fd4f2aa2f4/linked_in_profile>
-  <img src="https://img.shields.io/badge/-ISC2 CC-000080?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-ISC2 CC-2E8B57?&style=for-the-badge&logoColor=white" />
 </a>
 <a href=https://www.credly.com/badges/8a929ed7-0b8d-4c6b-b553-4b86e4c53b1f/linked_in_profile>
   <img src="https://img.shields.io/badge/-Cisco CyberOps-0073CF?&style=for-the-badge&logoColor=white" />
