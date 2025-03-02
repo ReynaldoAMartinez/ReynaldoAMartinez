@@ -29,16 +29,16 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 <div>
 <a href=https://www.credly.com/badges/0c769d83-11c1-4276-bb22-bfbe187b6a5d/linked_in_profile>
-  <img src="https://img.shields.io/badge/-CompTIA%20A%2B-0073CF?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+  <img src="https://img.shields.io/badge/-A%20A%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </a>
 <a href=https://www.credly.com/badges/29fc38e5-d03f-4af5-9eda-2764d73b7fbf/public_url>
-  <img src="https://img.shields.io/badge/-CompTIA Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </a>
 <a href=https://www.credly.com/badges/4d66c967-be92-4c57-b125-f7d4336dec7e/public_url>
-  <img src="https://img.shields.io/badge/-CompTIA CySA%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CySA%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </a>
 <a href=https://www.credly.com/badges/56a33d0e-d95b-482b-bf11-eb5be78e639a/public_url>
-  <img src="https://img.shields.io/badge/-CompTIA CSAP-006400?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSAP-FF0000?&style=for-the-badge&logoColor=white" />
 </a>
 <a href=https://www.axelos.com/successful-candidates-register>
   <img src="https://img.shields.io/badge/-ITIL-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
