@@ -17,12 +17,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Ethical Hacking                               | <a href="https://www.credly.com/badges/afa277e5-ac94-42f4-93ba-ddfc9b76d029/linked_in_profile>
-  <img src="https://img.shields.io/badge/-Ethical Hacking%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-</a>
-|
-| Security Operations, ELK and Security Onion   | <a href="https://www.credly.com/badges/9c869131-0e26-4f52-b167-3e52e427a464</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Security Operations, ELK and Security Onion   | SOC Automation Lab|
+| Ethical Hacking                               | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
