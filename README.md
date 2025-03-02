@@ -59,28 +59,22 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <a href=https://www.credly.com/badges/4d66c967-be92-4c57-b125-f7d4336dec7e/public_url>
   <img src="https://img.shields.io/badge/-CySA%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </a>
-<a href=https://www.credly.com/badges/29fc38e5-d03f-4af5-9eda-2764d73b7fbf/public_url)>
+<a href=https://www.axelos.com/successful-candidates-register>
   <img src="https://img.shields.io/badge/-ITIL%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </a>
-<a href=https://www.credly.com/badges/29fc38e5-d03f-4af5-9eda-2764d73b7fbf/public_url)>
+<a href=https://www.credly.com/badges/56a33d0e-d95b-482b-bf11-eb5be78e639a/public_url>
   <img src="https://img.shields.io/badge/-CSAP-006400?&style=for-the-badge&logoColor=white" />
 </a>
 <a href=https://www.credly.com/badges/0c769d83-11c1-4276-bb22-bfbe187b6a5d/linked_in_profile>
   <img src="https://img.shields.io/badge/-Apple ACTC-006400?&style=for-the-badge&logoColor=white" />
 </a>
-<a href=https://www.credly.com/badges/29fc38e5-d03f-4af5-9eda-2764d73b7fbf/public_url)>
+<a href=https://cs.lpi.org/caf/Xamman/certification/verify/LPI000472310/l3vf5usn6h>
   <img src="https://img.shields.io/badge/-Linux-000080?&style=for-the-badge&logoColor=white" />
 </a>
-<a href=https://www.credly.com/badges/29fc38e5-d03f-4af5-9eda-2764d73b7fbf/public_url)>
+<a href=https://www.credly.com/badges/649b434b-d6db-4a18-adec-81fd4f2aa2f4/linked_in_profile>
   <img src="https://img.shields.io/badge/-ISC2 CC-000080?&style=for-the-badge&logoColor=white" />
 </a>
-<a href=https://www.credly.com/badges/29fc38e5-d03f-4af5-9eda-2764d73b7fbf/public_url)>
-  <img src="https://img.shields.io/badge/-Cisco Ethical Hacker-000080?&style=for-the-badge&logoColor=white" />
-</a>
-<a href=https://www.credly.com/badges/29fc38e5-d03f-4af5-9eda-2764d73b7fbf/public_url)>
-  <img src="https://img.shields.io/badge/-Cisco CyberOps-000080?&style=for-the-badge&logoColor=white" />
-</a>
-<a href=https://www.credly.com/badges/29fc38e5-d03f-4af5-9eda-2764d73b7fbf/public_url)>
+<a href=https://www.credly.com/badges/8a929ed7-0b8d-4c6b-b553-4b86e4c53b1f/linked_in_profile>
   <img src="https://img.shields.io/badge/-Cisco CyberOps Associate-000080?&style=for-the-badge&logoColor=white" />
 </a>
 
