@@ -17,7 +17,7 @@ Here are selected projects that showcase my skills and hands-on experience
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Security Operations, ELK and Security Onion   | SOC Automation Lab|
+| Security Operations, ELK and Security Onion   | [SOC](https://www.credly.com/badges/9c869131-0e26-4f52-b167-3e52e427a464)|
 | Ethical Hacking                               | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
