@@ -65,9 +65,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <a href=https://www.axelos.com/successful-candidates-register>
   <img src="https://img.shields.io/badge/-ITIL-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </a>
-<a href=https://www.credly.com/badges/0c769d83-11c1-4276-bb22-bfbe187b6a5d/linked_in_profile>
-  <img src="https://img.shields.io/badge/-Apple ACTC-006400?&style=for-the-badge&logoColor=white" />
-</a>
+
+<img src="https://img.shields.io/badge/-Apple ACTC-006400?&style=for-the-badge&logoColor=white" />
+
 <a href=https://cs.lpi.org/caf/Xamman/certification/verify/LPI000472310/l3vf5usn6h>
   <img src="https://img.shields.io/badge/-Linux-000080?&style=for-the-badge&logoColor=white" />
 </a>
