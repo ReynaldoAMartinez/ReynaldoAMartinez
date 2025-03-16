@@ -97,7 +97,7 @@ Here are selected projects that showcase my skills and hands-on experience
 [twitter]: https://twitter.com/joshmadakor
 [youtube]: https://www.youtube.com/c/joshmadakor
 [instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://www.linkedin.com/in/cyberey/
+[linkedin]: <a href="https://www.linkedin.com/in/cyberey/">
 
 ## Projects
 - Detection Lab
