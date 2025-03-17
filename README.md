@@ -3,7 +3,21 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@itramp12)
 
 <h1>Hi, I'm Reynaldo! An IT professional, with a passion for cybersecurity, to create a safer community.
- 
+
+ ## Objective
+
+My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+
+## Skills and Projects
+Here are selected projects that showcase my skills and hands-on experience
+
+| Skill or Project                              | Link Associated           |
+|-----------------------------------------------|----------------------------|
+| Security Operations                           | [CyberOps Associate](https://www.credly.com/badges/9c869131-0e26-4f52-b167-3e52e427a464)|
+| Ethical Hacking                               | [Ethical Hacking](https://www.credly.com/badges/afa277e5-ac94-42f4-93ba-ddfc9b76d029/linked_in_profile)|
+| Cyber attack detection using       | SOC Automation Lab|
+| Case Management with TheHive                  | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
@@ -35,25 +49,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-
-
-## Objective
-
-
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
-
-## Skills and Projects
-Here are selected projects that showcase my skills and hands-on experience
-
-| Skill or Project                              | Link Associated           |
-|-----------------------------------------------|----------------------------|
-| Security Operations                           | [CyberOps Associate](https://www.credly.com/badges/9c869131-0e26-4f52-b167-3e52e427a464)|
-| Ethical Hacking                               | [Ethical Hacking](https://www.credly.com/badges/afa277e5-ac94-42f4-93ba-ddfc9b76d029/linked_in_profile)|
-| Cyber attack detection using       | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 
 ## Certifications
