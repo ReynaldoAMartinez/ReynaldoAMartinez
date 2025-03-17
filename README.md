@@ -22,7 +22,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Cyber Attack Simulation and Detection with Wazuh       | [A Practical Guide to Offense & Defense](https://github.com/joshmadakor1/Algorithms-Practice)|
 
 
-
+<!-- This is a comment in Markdown. It won't be visible on GitHub. -->
+<!-- 
 <h2>📺 Popular YouTube Videos</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
@@ -30,7 +31,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 - [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
-
+-->
 
 
 <!--
