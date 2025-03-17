@@ -19,7 +19,7 @@ Seasoned IT professional with 20+ years of experience, now transitioning into cy
 
 | Projects                              | Link Associated           |
 |-----------------------------------------------|----------------------------|
-| Cyber Attack Simulation and Detection with Wazuh       | [A Practical Guide to Offense & Defense](https://github.com/joshmadakor1/Algorithms-Practice)|
+| Cyber Attack Simulation and Detection with Wazuh       | [Attack Simulation and Detection with Wazuh](https://github.com/ReynaldoAMartinez/Attack-Simulation-and-Detection-with-Wazuh/tree/main)|
 
 
 <!-- This is a comment in Markdown. It won't be visible on GitHub. -->
