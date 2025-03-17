@@ -6,7 +6,7 @@
 
  ## Objective
 
-Seasoned IT professional with 20+ years of experience, now transitioning into cybersecurity with a strong focus on Security Operations (SOC) and Threat Detection. Holding certifications in SOC Analysis and courses in Ethical Hacking, I have developed expertise in SIEM solutions, incident response, intrusion detection, pentesting and vulnerability assessment. Passionate about leveraging my extensive IT background and newly acquired cybersecurity skills to proactively identify and mitigate cyber threats. Excited to contribute as a SOC Tier 1 Analyst, bringing a blend of hands-on technical expertise, analytical thinking, and a commitment to continuous learning.
+Seasoned IT professional with 20+ years of experience, now transitioning into cybersecurity with a strong focus on Security Operations (SOC) and Threat Detection. Holding certifications in SOC Analysis and courses in Ethical Hacking, I have developed expertise in SIEM solutions, incident response, intrusion detection, pentesting and vulnerability assessment. Passionate about leveraging my extensive IT background and newly acquired cybersecurity skills to proactively identify and mitigate cyber threats. Excited to contribute as a Cybersecurity Analyst, SOC Tier 1 Analyst, or Pentester bringing a blend of hands-on technical expertise, analytical thinking, and a commitment to continuous learning.
 
 <h2>👨‍💻 Skills and Projects:</h2>
 
