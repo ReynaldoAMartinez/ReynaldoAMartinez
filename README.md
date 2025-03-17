@@ -19,11 +19,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Projects                              | Link Associated           |
 |-----------------------------------------------|----------------------------|
-| Security Operations                           | [CyberOps Associate](https://www.credly.com/badges/9c869131-0e26-4f52-b167-3e52e427a464)|
-| Ethical Hacking                               | [Ethical Hacking](https://www.credly.com/badges/afa277e5-ac94-42f4-93ba-ddfc9b76d029/linked_in_profile)|
 | Cyber Attack Simulation and Detection with Wazuh       | [A Practical Guide to Offense & Defense](https://github.com/joshmadakor1/Algorithms-Practice)|
 
-
+<h2>👨‍💻 Skills and Projects:</h2>
 - <b>Cyber Attack Simulation and Detection with Wazuh</b>
   - [A Practical Guide to Offense & Defense](https://github.com/joshmadakor1/Algorithms-Practice)
 
