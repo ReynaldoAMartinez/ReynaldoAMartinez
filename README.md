@@ -21,9 +21,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 |-----------------------------------------------|----------------------------|
 | Cyber Attack Simulation and Detection with Wazuh       | [A Practical Guide to Offense & Defense](https://github.com/joshmadakor1/Algorithms-Practice)|
 
-<h2>👨‍💻 Skills and Projects:</h2>
-- <b>Cyber Attack Simulation and Detection with Wazuh</b>
-  - [A Practical Guide to Offense & Defense](https://github.com/joshmadakor1/Algorithms-Practice)
 
 
 <h2>📺 Popular YouTube Videos</h2>
