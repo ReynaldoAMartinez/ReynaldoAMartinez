@@ -99,6 +99,4 @@ Here are selected projects that showcase my skills and hands-on experience
 [instagram]: https://www.instagram.com/joshmadakor/
 [linkedin]: <a href="https://www.linkedin.com/in/cyberey/">
 
-## Projects
-- Detection Lab
-- SOC Automation Project
+
