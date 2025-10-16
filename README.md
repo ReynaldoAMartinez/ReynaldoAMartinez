@@ -12,16 +12,14 @@ Passionate about leveraging my extensive IT background and newly developed cyber
 
 <h2>👨‍💻 Skills:</h2>
 
-| Skills                               | Link Associated           |
+| Skills                               | Associated Training          |
 |-----------------------------------------------|----------------------------|
 | Security Operations                           | [CyberOps Associate](https://www.credly.com/badges/9c869131-0e26-4f52-b167-3e52e427a464)|
 | Ethical Hacking                               | [Ethical Hacking](https://www.credly.com/badges/afa277e5-ac94-42f4-93ba-ddfc9b76d029/linked_in_profile)|
 
-<h2>👨‍💻 Projects:</h2>
+<h2>👨‍💻 Tools:</h2>
 
-Below a sample of projects to illustrate skills and practical experience
-
-| Projects                              | Link Associated           |
+| Projects                              | Associated Project           |
 |-----------------------------------------------|----------------------------|
 | Cyber Attack Simulation and Detection with Wazuh       | [Attack Simulation and Detection with Wazuh](https://github.com/ReynaldoAMartinez/Attack-Simulation-and-Detection-with-Wazuh/tree/main)|
 | SOC Simulator with ELK - a 30-Day SOC Analyst Challenge| [SOC-Simulator](https://github.com/ReynaldoAMartinez/SOC-Simulator)|
