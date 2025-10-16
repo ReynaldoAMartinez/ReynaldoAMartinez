@@ -10,13 +10,14 @@ Seasoned IT professional with over 20 years of experience, currently transitioni
 
 Passionate about leveraging my extensive IT background and newly developed cybersecurity expertise to proactively detect and mitigate cyber threats. Eager to contribute as a Cybersecurity Analyst, SOC Tier 1 Analyst, or Pentester, bringing strong technical skills, analytical thinking, and a commitment to continuous learning.
 
-<h2>👨‍💻 Skills and Projects:</h2>
-
+<h2>👨‍💻 Skills:</h2>
 
 | Skills                               | Link Associated           |
 |-----------------------------------------------|----------------------------|
 | Security Operations                           | [CyberOps Associate](https://www.credly.com/badges/9c869131-0e26-4f52-b167-3e52e427a464)|
 | Ethical Hacking                               | [Ethical Hacking](https://www.credly.com/badges/afa277e5-ac94-42f4-93ba-ddfc9b76d029/linked_in_profile)|
+
+<h2>👨‍💻 Projects:</h2>
 
 Below a sample of projects to illustrate skills and practical experience
 
