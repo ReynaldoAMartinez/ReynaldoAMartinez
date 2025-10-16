@@ -4,11 +4,11 @@
 
 <!-- <h1>Hi, I'm Reynaldo! An IT professional, with a passion for cybersecurity, to create a safer community. -->
 
-Seasoned IT professional with 20+ years of experience, now transitioning into cybersecurity with a strong focus on Security Operations (SOC) and Threat Detection. Holding certifications in SOC Analysis and courses in Ethical Hacking, I have hands-on in SIEM solutions, incident response, intrusion detection, pentesting and vulnerability assessment.
+Seasoned IT professional with over 20 years of experience, currently transitioning into cybersecurity with a strong focus on Security Operations (SOC) and Threat Detection. Certified in SOC Analysis and trained in Ethical Hacking, I bring hands-on experience with SIEM solutions, incident response, intrusion detection, penetration testing, and vulnerability assessment.
 
  ## Objective
 
-Passionate about leveraging my extensive IT background and newly acquired cybersecurity skills to proactively identify and mitigate cyber threats. Excited to contribute as a Cybersecurity Analyst, SOC Tier 1 Analyst, or Pentester bringing a blend of hands-on technical expertise, analytical thinking, and a commitment to continuous learning.
+Passionate about leveraging my extensive IT background and newly developed cybersecurity expertise to proactively detect and mitigate cyber threats. Eager to contribute as a Cybersecurity Analyst, SOC Tier 1 Analyst, or Pentester, bringing strong technical skills, analytical thinking, and a commitment to continuous learning.
 
 <h2>👨‍💻 Skills and Projects:</h2>
 
