@@ -4,9 +4,11 @@
 
 <!-- <h1>Hi, I'm Reynaldo! An IT professional, with a passion for cybersecurity, to create a safer community. -->
 
+Seasoned IT professional with 20+ years of experience, now transitioning into cybersecurity with a strong focus on Security Operations (SOC) and Threat Detection. Holding certifications in SOC Analysis and courses in Ethical Hacking, I have hands-on in SIEM solutions, incident response, intrusion detection, pentesting and vulnerability assessment.
+
  ## Objective
 
-Seasoned IT professional with 20+ years of experience, now transitioning into cybersecurity with a strong focus on Security Operations (SOC) and Threat Detection. Holding certifications in SOC Analysis and courses in Ethical Hacking, I have developed expertise in SIEM solutions, incident response, intrusion detection, pentesting and vulnerability assessment. Passionate about leveraging my extensive IT background and newly acquired cybersecurity skills to proactively identify and mitigate cyber threats. Excited to contribute as a Cybersecurity Analyst, SOC Tier 1 Analyst, or Pentester bringing a blend of hands-on technical expertise, analytical thinking, and a commitment to continuous learning.
+Passionate about leveraging my extensive IT background and newly acquired cybersecurity skills to proactively identify and mitigate cyber threats. Excited to contribute as a Cybersecurity Analyst, SOC Tier 1 Analyst, or Pentester bringing a blend of hands-on technical expertise, analytical thinking, and a commitment to continuous learning.
 
 <h2>👨‍💻 Skills and Projects:</h2>
 
@@ -16,7 +18,7 @@ Seasoned IT professional with 20+ years of experience, now transitioning into cy
 | Security Operations                           | [CyberOps Associate](https://www.credly.com/badges/9c869131-0e26-4f52-b167-3e52e427a464)|
 | Ethical Hacking                               | [Ethical Hacking](https://www.credly.com/badges/afa277e5-ac94-42f4-93ba-ddfc9b76d029/linked_in_profile)|
 
-Below a sample of projects to illustrate skills and pracitcal experience
+Below a sample of projects to illustrate skills and practical experience
 
 | Projects                              | Link Associated           |
 |-----------------------------------------------|----------------------------|
