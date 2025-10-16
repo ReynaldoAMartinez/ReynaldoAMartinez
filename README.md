@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/cyberey/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@itramp12)
 
-## <h1>Hi, I'm Reynaldo! An IT professional, with a passion for cybersecurity, to create a safer community.
+<!-- <h1>Hi, I'm Reynaldo! An IT professional, with a passion for cybersecurity, to create a safer community.
 
  ## Objective
 
