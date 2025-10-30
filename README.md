@@ -24,7 +24,7 @@ Passionate about leveraging my extensive IT background and newly developed cyber
 | SOC Accelerator| [SOC-Accelerator](https://github.com/ReynaldoAMartinez/SOC-Accelerator)|
 | Cyber Attack Simulation and Detection with Wazuh       | [Attack Simulation and Detection with Wazuh](https://github.com/ReynaldoAMartinez/Attack-Simulation-and-Detection-with-Wazuh/tree/main)|
 | SOC Simulator with ELK - a 30-Day SOC Analyst Challenge| [SOC-Simulator with ELK](https://github.com/ReynaldoAMartinez/SOC-Simulator-with-ELK)|
-| Splunk 101| [SOC-Simulator](https://github.com/ReynaldoAMartinez/Splunk-101)|
+| Splunk 101| [Splunk-101](https://github.com/ReynaldoAMartinez/Splunk-101)|
 | Microsoft 30-day Challenge| [SOC-Simulator](https://github.com/ReynaldoAMartinez/Splunk-101)|
 
 <!-- This is a comment in Markdown. It won't be visible on GitHub. -->
